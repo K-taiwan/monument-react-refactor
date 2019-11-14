@@ -10,12 +10,12 @@ const Sidebar = () => {
 			<img src={GT1} alt=""/>
 			<h3>Recent Issues</h3>
 			<ul>
-				<li><a href="">Issue Nineteen &mdash; Camping</a></li>
-				<li><a href="">Issue Eighteen &mdash; Food</a></li>
-				<li><a href="">Issue Seventeen &mdash; Signs</a></li>
-				<li><a href="">Issue Sixteen &mdash; Friends</a></li>
-				<li><a href="">Issue Fifteen &mdash; Carnivals</a></li>
-				<li><a href="">Issue Fourteen &mdash; Gatherings</a></li>
+				<li><a href="">Issue Nineteen &mdash; AMG</a></li>
+				<li><a href="">Issue Eighteen &mdash; M series</a></li>
+				<li><a href="">Issue Seventeen &mdash; 911</a></li>
+				<li><a href="">Issue Sixteen &mdash; GTR</a></li>
+				<li><a href="">Issue Fifteen &mdash; R8</a></li>
+				<li><a href="">Issue Fourteen &mdash; LFA</a></li>
 			</ul>
 		</aside>
     );
