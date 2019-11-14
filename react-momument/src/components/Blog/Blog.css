@@ -9,7 +9,7 @@ header h2 {
 }
 
 header {
-	background-image: url('../images/AMGgroup1.jpg');
+	background-image: url('./AMGgroup1.jpg');
 	background-size: cover;
 	background-position: center;
 

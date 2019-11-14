@@ -22,7 +22,7 @@ body {
 /* Responsive images */
 img {
 	max-width: 100%;
-	
+	min-height: 290px;
 }
 
 /* ----------------------------------------
@@ -377,7 +377,7 @@ Media Queries
 
 	.hamburger {
 		display: block;
-		color: #fff;
+		color: rgb(184, 23, 23);
 		font-size: 1.7rem;
 		position: absolute;
 		top: 10px;
