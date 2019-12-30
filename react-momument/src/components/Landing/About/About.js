@@ -14,19 +14,7 @@ const About = () => {
                     <p>Dignissimos quasi nisi maiores dolor sunt. Fuga unde, rem quo sint dolore est pariatur cupiditate nostrum et suscipit, aperiam aliquam officia libero vel error modi ratione, dolorem consectetur doloribus mollitia! Temporibus aliquid laboriosam expedita quia, id consectetur culpa? Enim iusto ab facere aliquid cumque aut amet tenetur dolores, iure tempora perspiciatis incidunt eveniet nostrum, ea esse doloribus labore unde nobis?</p>
                 </article>
             </section>
-            // <section id="gallery">
-            //     <div className="wrap">
-            //         <h2>Issue Twenty</h2>
-            //         <h3>A visual guide to the Southwest</h3>
-            //         <div className="masonry">
-            //             <img src={A45} alt=""/>
-            //             <img src={AMGgroup} alt=""/>
-            //             <img src={GT} alt=""/>
-                        
-            //         </div>
-            //     </div>
-            // </section>
-        
+
     );
 };
 
